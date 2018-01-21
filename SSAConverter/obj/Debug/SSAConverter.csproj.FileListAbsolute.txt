@@ -1,0 +1,7 @@
+C:\Users\Kirito\Desktop\SSAConverter\SSAConverter\obj\Debug\SSAConverter.csproj.CoreCompileInputs.cache
+C:\Users\Kirito\Desktop\SSAConverter\SSAConverter\bin\Debug\SSAConverter.exe.config
+C:\Users\Kirito\Desktop\SSAConverter\SSAConverter\bin\Debug\SSAConverter.exe
+C:\Users\Kirito\Desktop\SSAConverter\SSAConverter\bin\Debug\SSAConverter.pdb
+C:\Users\Kirito\Desktop\SSAConverter\SSAConverter\obj\Debug\SSAConverter.exe
+C:\Users\Kirito\Desktop\SSAConverter\SSAConverter\obj\Debug\SSAConverter.pdb
+C:\Users\Kirito\Desktop\SSAConverter\SSAConverter\obj\Debug\SSAConverter.csprojResolveAssemblyReference.cache
